@@ -48,7 +48,9 @@ The workspace is organized into a single-screen layout focusing on maximum scree
 |         [ PNG Snapshot ]  [ PDF Report ]  [ CSV File ]  [ STIX 2.1 ]   |
 +------------------------------------------------------------------------+
 ```
-
+| My Projects | Main Page | Help |
+| :---: | :---: | :---: |
+| <img src="Screenshot_MyProjects.png" width="400" alt="My Projects"> | <img src="Screenshot_MainPage.png" width="400" alt="Main Page"> | <img src="Screenshot_Help.png" width="400" alt="Help"> |
 ---
 
 ## Local Prerequisites & Installation Guide
