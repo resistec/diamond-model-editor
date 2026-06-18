@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Model Builder",
+  "description": "An interactive utility for Cyber Threat Intelligence analysts to create, manage, visualize, and export Threat Intelligence Diamond Models in multiple formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
